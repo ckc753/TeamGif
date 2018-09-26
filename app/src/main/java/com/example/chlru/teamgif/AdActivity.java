@@ -11,5 +11,5 @@ public class AdActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.ad_main);
         Toast.makeText(this, "Adactivity실행완료", Toast.LENGTH_SHORT).show();
-    }
+}
 }
